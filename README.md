@@ -43,7 +43,3 @@
 
 - Profile View Also Can be Update Profile Info
   ![image](https://github.com/morshedulmunna/taskify/assets/44342051/9c1f73ed-d8ea-4502-8cff-2ce4ec3d325c)
-
-
-  Design & Develop by morshedulmunna
-  email: morshedulmunna1@gmail.com
