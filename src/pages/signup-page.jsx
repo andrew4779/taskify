@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import {Link, useNavigate} from "react-router-dom";
-// import logo from "../assets/Logo.svg";
+import logo from "../assets/Logo.svg";
 import {createCollectionDB} from "../lib/indexdb";
 
 export default function Signup() {
