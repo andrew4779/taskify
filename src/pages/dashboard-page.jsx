@@ -20,7 +20,7 @@ export default function DashboardPage() {
 
             <div className=" text-white mx-2 mb-6 p-4 rounded ">
                 <h1 className="text-5xl font-bold">
-                    Wellcome to Taskify!
+                    Wellcome to Task App!
                 </h1>
                 <p className="mt-4 text-sm leading-6">
                     
