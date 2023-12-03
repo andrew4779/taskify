@@ -2,7 +2,7 @@ import {Boxes, LayoutDashboardIcon, LogOut, UserSquare} from "lucide-react";
 import React from "react";
 import {Link, useLocation} from "react-router-dom";
 import {useUser} from "../context/userContext";
-// import Logo from "./Logo";
+import Logo from "./Logo";
 
 export default function Sidebar() {
     const location = useLocation();
