@@ -20,23 +20,10 @@ export default function DashboardPage() {
 
             <div className=" text-white mx-2 mb-6 p-4 rounded ">
                 <h1 className="text-5xl font-bold">
-                    Well come to Our Taskify!
+                    Wellcome to Taskify!
                 </h1>
                 <p className="mt-4 text-sm leading-6">
-                    Taskify is A Task Management System with Team is a powerful
-                    digital tool designed to streamline and enhance teamwork and
-                    productivity within organizations. This system allows teams
-                    to efficiently assign, track, and complete tasks and
-                    projects collaboratively. It provides a centralized platform
-                    where team members can create, delegate, and monitor tasks,
-                    ensuring clear communication and accountability. With
-                    features like real-time updates, task prioritization, and
-                    progress tracking, this system promotes efficient project
-                    management, improved workflow coordination, and better
-                    overall team performance. Whether you're working on a small
-                    project or managing complex, long-term initiatives, a Task
-                    Management System with Team is your go-to solution for
-                    achieving your goals efficiently and effectively.
+                    
                 </p>
             </div>
 
